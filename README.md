@@ -1,323 +1,170 @@
 <!-- ========================= HERO ========================= -->
-
 <h1 align="center">Hi 👋, I'm Abdul Moiz</h1>
-
 <h3 align="center">
-AI Software Engineer • Full Stack Developer • Computer Science Student
+AI Software Engineer • Full Stack Developer
 </h3>
-
 <p align="center">
-Building intelligent software with Artificial Intelligence, scalable backend systems and modern web technologies.
+Building intelligent software with Artificial Intelligence, scalable backend systems, and modern web technologies.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=AI+Software+Engineer;Full+Stack+Developer;Computer+Science+Student+at+NUST;Building+Real-World+AI+Applications;Generative+AI+%7C+Machine+Learning+%7C+Automation;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=AI+Software+Engineer;Full+Stack+Developer;Computer+Science+Student+at+NUST;Building+Production+AI+Applications;Generative+AI+%7C+Machine+Learning+%7C+Automation" />
 </p>
 
----
+<br/>
 
-## 🚀 About Me
+# About Me
+- 🎓 Computer Science undergraduate at **NUST Islamabad**
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, LLMs, and AI-powered Software Engineering**
+- 💻 Building complete software products from frontend interfaces to scalable backend systems and AI integrations
+- 🌱 Currently exploring **LLMs, AI Agents, FastAPI, Docker, Kubernetes, MLOps, Cloud Computing, and System Design**
+- 🎯 My goal is to build intelligent software that creates real-world impact
 
-🎓 Computer Science undergraduate at **NUST Islamabad**
+<br/>
 
-🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, **LLMs**, and **AI-powered Software Engineering**
-
-💻 I enjoy building complete products—from modern frontend interfaces to scalable backend APIs and intelligent AI integrations.
-
-🌱 Currently exploring
-
-- Large Language Models (LLMs)
-- AI Agents
-- FastAPI
-- Docker
-- Kubernetes
-- MLOps
-- Cloud Computing
-- System Design
-
-🎯 Long-term goal
-
-> Build intelligent software that solves real-world problems through Artificial Intelligence.
-
----
-
-# 💡 What I Do
-
-- 🤖 AI Applications
-- 🧠 Machine Learning
-- 🌐 Full Stack Development
-- ⚡ Intelligent Automation
+# Core Expertise
+- 🌐 Full Stack Web Development
+- ⚡ AI Automation & Agents
+- 🔒 Backend API Development
 - ☁️ Cloud-Native Applications
-- 🔒 Secure Backend Development
 - 📊 Data Visualization
-- 🚀 Scalable REST APIs
+- 🚀 Scalable Software Systems
 
----
+<br/>
 
-# 🛠 Tech Stack
+# Tech Stack
 
-## Languages
-
+### Languages
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,sql" />
 </p>
 
-## Frontend
-
+### Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 </p>
 
-## Backend
-
+### Backend
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi" />
 </p>
 
-## AI / Machine Learning
-
+### AI & Machine Learning
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 </p>
 
-**Also experienced with**
+**Also experienced with:** Transformers · LangChain · NLP · CNNs · RNNs · AI Agents · Generative AI
 
-- Transformers
-- CNNs
-- RNNs
-- NLP
-- LangChain
-- AI Agents
-- Generative AI
-
-## Databases
-
+### Databases
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" />
 </p>
 
-## DevOps & Tools
-
+### DevOps & Tools
 <p>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode,postman,linux" />
 </p>
 
----
+<br/>
 
-# ⭐ Featured Projects
+# Featured Projects
 
-## 🎙 Vozora — AI Dialogue Generator
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> Multi-character AI dialogue generation with realistic voice synthesis.
+**🎙 Vozora — AI Dialogue Generator**
 
-**Tech**
+AI-powered dialogue generation platform with realistic multi-speaker voice synthesis.
 
-- Next.js
-- FastAPI
-- AI
-- Multi-Voice TTS
+`Next.js` `FastAPI` `AI` `Multi-Voice TTS`
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🚚 AceTransit
+**🚚 AceTransit — Smart Courier Platform**
 
-Modern courier management platform.
+Modern courier management platform with intelligent shipment tracking and automation.
 
-✔ Shipment Tracking
+`Next.js` `TypeScript` `Supabase`
 
-✔ AI Customer Support
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-✔ Smart Booking
+**🏥 AegleCove — Health Management Platform**
 
-✔ Billing Automation
+Healthcare management platform featuring medical records, symptom analysis, and medicine intelligence.
 
-**Tech**
+`React` `Spring Boot` `MongoDB`
 
-Next.js • TypeScript • Supabase
+</td>
+<td width="50%" valign="top">
 
----
+**💊 AegleKart — AI-Powered E-Pharmacy**
 
-## 🏥 AegleCove
+E-pharmacy system with medicine catalogue, purchasing workflow, and paywall integration.
 
-Healthcare Management Platform
+`MongoDB` `Express` `React` `Node.js`
 
-Features
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- Digital Medical Records
-- Disease Lookup
-- Medicine Recommendation
-- Symptom Analysis
+**📊 Global Disaster Response Analysis**
 
-**Stack**
+Interactive dashboard for clear data insights using Tableau, Power BI, Python, and JavaScript.
 
-React
+`Tableau` `Power BI` `Python` `JavaScript`
 
-Spring Boot
+</td>
+<td width="50%" valign="top">
 
-MongoDB
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## 💊 AegleKart
+# Certifications
+- 🏅 Harvard CS50
+- 🏅 Google Digital Marketing
+- 🏅 IBM Quantum Safe Cryptography
+- 🏅 Cisco Networking Basics
+- 🏅 Elements of AI
+- 🏅 Deep Learning
 
-AI-powered E-Pharmacy
+<br/>
 
-Features
-
-- Medicine Catalogue
-- Secure Backend
-- Purchase Workflow
-- MERN Architecture
-
----
-
-## 📊 Data Visualization
-
-Interactive dashboards and analytics using
-
-- Tableau
-- Power BI
-- Python
-- JavaScript
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbdulMoiz132&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulMoiz132&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=AbdulMoiz132&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulMoiz132&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AbdulMoiz132&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 🌱 Currently Learning
-
-```text
-✓ AI Agents
-
-✓ Large Language Models
-
-✓ MLOps
-
-✓ Kubernetes
-
-✓ Docker
-
-✓ Distributed Systems
-
-✓ Cloud Computing
-
-✓ Advanced Machine Learning
-
-✓ System Design
-```
-
----
-
-# 📚 Certifications
-
-🏅 Harvard CS50
-
-🏅 Google Digital Marketing
-
-🏅 IBM Quantum Safe Cryptography
-
-🏅 Cisco Networking Basics
-
-🏅 Elements of AI
-
-🏅 Deep Learning
-
----
-
-# 🎯 2026 Goals
-
-- Build production-ready AI SaaS applications
-
-- Contribute to Open Source
-
+# 2026 Goals
+- Build production-ready AI SaaS products
 - Publish AI research
-
 - Master LLM Engineering
-
-- Learn Distributed Systems
-
+- Contribute to Open Source
 - Build scalable AI Agents
 
-- Secure AI/ML Internship
+<br/>
 
-- Become an exceptional Software Engineer
-
----
-
-# 🤝 Let's Connect
-
+# Connect With Me
 <p>
-
 <a href="https://github.com/AbdulMoiz132">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
-
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/abdul-moiz-b88a97292/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-
 <a href="mailto:moizmemon457@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-
 </p>
 
----
-
-# 💭 Philosophy
+<br/>
 
 > *"Great software isn't built by knowing every technology—it's built by continuously learning, solving meaningful problems, and shipping products that create impact."*
 
----
-
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=AbdulMoiz132&style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-⭐ Thanks for visiting my profile!
-
 </p>
